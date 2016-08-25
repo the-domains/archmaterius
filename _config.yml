@@ -1,24 +1,14 @@
-typography_spectrum: 0.5708189562428743
-content_rating:
-  adult: false
+layout_spectrum: 0.951471894280985
+typography_spectrum: 0.08444276102818549
 color:
+  brandStrength: 0.7535281155724078
+  lightness: 0.07502421014942229
+  saturation: 0.6774029938969761
+  rhythmicContrast: 0.5188626111485064
   brandColors:
-    - '#5D5D5D'
-    - '#FFFFFF'
-    - '#87C68F'
-    - '#E50014'
-    - '#000C12'
-  brandStrength: 0.13516202103346586
-  lightness: 0.834089003270492
-  saturation: 0.42616219678893685
-  rhythmicContrast: 0.668190153548494
-opengraph:
-  type: ''
-  appId: ''
-layout_spectrum: 0.22449759021401405
-author:
-  name: ''
-  url: ''
-  email: ''
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
 name: archmaterius
-title: ''
