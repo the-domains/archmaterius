@@ -6,3 +6,7 @@ color:
   saturation: 0.20175133529119194
   rhythmicContrast: 0.43322659842669964
 name: ARCHMATERIUS
+navigation:
+  - name: HOME
+    id: 72e6690b-612a-4232-b8d2-9a5276c101d4
+    type: content
