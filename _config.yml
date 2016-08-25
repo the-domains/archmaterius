@@ -1,14 +1,18 @@
-layout_spectrum: 0.951471894280985
-typography_spectrum: 0.08444276102818549
+layout_spectrum: 0.1942119791638106
+typography_spectrum: 0.57371517107822
 color:
-  brandStrength: 0.7535281155724078
-  lightness: 0.07502421014942229
-  saturation: 0.6774029938969761
-  rhythmicContrast: 0.5188626111485064
+  brandStrength: 0.863545062718913
+  lightness: 0.7957324120216072
+  saturation: 0.26012528012506664
+  rhythmicContrast: 0.12081363587640226
   brandColors:
-    - '#2B3A42'
-    - '#3F5765'
-    - '#BDD4DE'
-    - '#EFEFEF'
-    - '#FF530D'
+    - '#63A69F'
+    - '#F2E1AC'
+    - '#F2836B'
+    - '#F2594B'
+    - '#CD2C24'
 name: archmaterius
+navigation:
+  - name: HOME
+    id: ff4f548c-1118-46ff-90d0-ebfeeccd8bbf
+    type: content
