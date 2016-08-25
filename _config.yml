@@ -1,15 +1,14 @@
-layout_spectrum: 0.5083325821906328
-typography_spectrum: 0.47965545556508005
+layout_spectrum: 0.44042896083556116
+typography_spectrum: 0.7146425456739962
 color:
-  brandStrength: 0.13516202103346586
-  lightness: 0.834089003270492
-  saturation: 0.42616219678893685
-  rhythmicContrast: 0.668190153548494
+  brandStrength: 0.9023531940765679
+  lightness: 0.45441545778885484
+  saturation: 0.20175133529119194
+  rhythmicContrast: 0.43322659842669964
   brandColors:
-    - '#5D5D5D'
-    - '#FFFFFF'
-    - '#87C68F'
-    - '#E50014'
-    - '#000C12'
-name: archmaterius
-title: Yuyuan Metal Engineering
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: ARCHMATERIUS
