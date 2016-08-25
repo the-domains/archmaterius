@@ -1,17 +1,16 @@
 ---
-datePublished: '2016-08-25T15:35:13.065Z'
+datePublished: '2016-08-25T15:35:59.565Z'
 sourcePath: _posts/2016-08-25-hello-and-welcome.md
 author: []
 via: {}
-dateModified: '2016-08-25T15:35:12.096Z'
+dateModified: '2016-08-25T15:35:58.563Z'
 title: ''
 publisher: {}
 description: '- WELCOME -'
+hasPage: true
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: '-welcome-/index.html'
+_type: Blurb
 
 ---
 - WELCOME -
