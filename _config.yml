@@ -1,5 +1,6 @@
-layout_spectrum: 0.0768913405481726
 typography_spectrum: 0.43657768657431006
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#595241'
@@ -11,14 +12,17 @@ color:
   lightness: 0.38707653037272394
   saturation: 0.9669014730025083
   rhythmicContrast: 0.10483296308666468
-content_rating:
-  adult: false
 opengraph:
   type: ''
   appId: ''
+layout_spectrum: 0.0768913405481726
 author:
   name: ''
   url: ''
   email: ''
 name: archmaterius
+navigation:
+  - name: Service
+    id: 7abf16fc-fd30-41db-bcea-d85b15eb211e
+    type: content
 title: ''
